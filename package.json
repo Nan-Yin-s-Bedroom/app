@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nan-Yin-s-Bedroom/app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nan-Yin-s-Bedroom/app/issues"
+  },
+  "homepage": "https://github.com/Nan-Yin-s-Bedroom/app#readme",
+  "dependencies": {
+    "discord.js": "^14.22.1",
+    "winston": "^3.17.0"
+  }
+}
